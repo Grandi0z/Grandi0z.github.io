@@ -151,7 +151,7 @@ To run tests, run the following command:
 
 ### Deployment
 
-You can deploy this project using:
+You can visite the online version at : <a href="https://grandi0z.github.io/#">grandi0z.github.io</a>
 
 
 
