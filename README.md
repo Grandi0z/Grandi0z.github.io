@@ -77,7 +77,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://github.com/Grandi0z/Portfolio-setup-and-mobile-first)
+- [Live Demo Link](https://grandi0z.github.io/#">grandi0z.github.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,7 +166,7 @@ You can visite the online version at : <a href="https://grandi0z.github.io/#">gr
 👤 **Author1**
 
 - GitHub: [@Grandi0z](https://github.com/Grandi0z)
-- Twitter: [@wa_inje](https://twitter.com/wa_inje)
+- Twitter: [@Joseph_LSK](https://twitter.com/Joseph_LSK)
 - LinkedIn: [Joeph L Kausi](https://linkedin.com/in/Joeph_l_Kausi)
 
 
